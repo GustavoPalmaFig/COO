@@ -1,0 +1,4 @@
+Para executar o Pong, deve-se extrair a pasta src.
+Após isso, abra-a no terminal e digite Java Pong e execute.
+
+Gustavo - 11208068
